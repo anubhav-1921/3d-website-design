@@ -1,6 +1,6 @@
 # 🌲 3D Website Design
 
-A modern and responsive **3D Website Design** built using **HTML5, CSS3, and Spline**. The project delivers an immersive user experience with interactive 3D visuals, modern typography, and a clean responsive layout.
+A modern and responsive **3D Website Design** built using **HTML5, CSS3, and Spline**. The project delivers an immersive user experience with interactive 3D visuals, clean typography, and a fully responsive layout.
 
 ---
 
@@ -10,18 +10,26 @@ A modern and responsive **3D Website Design** built using **HTML5, CSS3, and Spl
 
 ---
 
-## ✨ Features
+## 📸 Project Preview
 
-- 🌲 Interactive 3D Hero Section
-- 🎨 Modern & Minimal UI
-- 📱 Responsive Design
-- ⚡ Smooth User Experience
-- 🚀 Fast Loading
-- 💻 Clean and Organized Code
+![Project Preview](assets/preview.png)
 
 ---
 
-## 🛠️ Tech Stack
+## ✨ Features
+
+- Modern Landing Page UI
+- Interactive 3D Scene using Spline
+- Fully Responsive Design
+- Smooth Layout
+- Clean Typography
+- Modern Navigation Bar
+- Hero Section with Call-to-Action
+- HTML5 & CSS3 Best Practices
+
+---
+
+## 🛠️ Built With
 
 - HTML5
 - CSS3
@@ -29,19 +37,17 @@ A modern and responsive **3D Website Design** built using **HTML5, CSS3, and Spl
 
 ---
 
-## 📸 Project Preview
-![Project Preview](assets/preview.png)
----
-
 ## 📂 Project Structure
 
 ```text
 3d-website-design/
 │
+├── assets/
+│   └── preview.png
+│
 ├── index.html
 ├── style.css
-├── README.md
-└── screenshot
+└── README.md
 ```
 
 ---
@@ -54,34 +60,29 @@ Clone the repository
 git clone https://github.com/anubhav-1921/3d-website-design.git
 ```
 
-Go to the project folder
+Open the project
 
 ```bash
 cd 3d-website-design
 ```
 
-Run locally
+Run the project
 
-Simply open **index.html** in your browser.
-
----
-
-## 💡 What I Learned
-
-- Creating modern landing pages
-- Integrating Spline 3D scenes into web projects
-- Responsive layout techniques
-- UI spacing and typography
-- Clean project structure
+```text
+Open index.html in your browser
+```
 
 ---
 
-## 🔮 Future Improvements
+## 🎯 Learning Goals
 
-- Responsive Mobile Navigation
-- Smooth Scroll Animations
-- Additional Landing Page Sections
-- Dark / Light Theme
-- Performance Optimization
+This project was created to practice:
+
+- Responsive Web Design
+- Modern UI Design
+- HTML & CSS Layout
+- 3D Web Experiences
+- Spline Integration
 
 ---
+
