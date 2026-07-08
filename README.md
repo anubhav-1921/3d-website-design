@@ -12,7 +12,7 @@ A modern and responsive **3D Website Design** built using **HTML5, CSS3, and Spl
 
 ## 📸 Project Preview
 
-![Project Preview](assets/preview.png)
+![Project Preview](assets/Screenshot%202026-07-08%20121514.png)
 
 ---
 
