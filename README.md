@@ -30,19 +30,7 @@ A modern and responsive **3D Website Design** built using **HTML5, CSS3, and Spl
 ---
 
 ## 📸 Project Preview
-
-> If your screenshot is in the repository root:
-
-```md
-![Project Preview](Screenshot%202026-07-08%20121514.png)
-```
-
-> If you later move it to `assets/screenshots/`
-
-```md
-![Project Preview](assets/screenshots/travel-homepage.png)
-```
-
+![Project Preview](assets/preview.png)
 ---
 
 ## 📂 Project Structure
